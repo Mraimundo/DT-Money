@@ -1,12 +1,13 @@
 import { ThemeProvider } from "styled-components";
-import { defaultTheme } from "./assets/styles/themes/default";
-import { GlobalStyled } from "./assets/styles/global";
+import { defaultTheme } from "./styles/themes/default";
+import { GlobalStyled } from "./styles/global";
+import { Transactions } from "./pages/Transactions";
 
 export function App() {
   return (
     <ThemeProvider theme={defaultTheme}>
       <GlobalStyled />
-      <h1>Dt money</h1>
+      <Transactions/>
     </ThemeProvider>
   );
 }
