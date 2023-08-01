@@ -1,0 +1,20 @@
+{
+  "transaction": [
+    {
+      "id": 1,
+      "description": "Desenvolvedor Frontend",
+      "type": "income",
+      "category": "Venda",
+      "price": "12000",
+      "createdAt": "2023-07-01T19:12:19.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hanburger",
+      "type": "oucome",
+      "category": "Alimentação",
+      "price": "40",
+      "createdAt": "2023-07-01T19:50:19.505Z"
+    }
+  ]
+}
