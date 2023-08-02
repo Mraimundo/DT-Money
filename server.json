@@ -14,7 +14,7 @@
       "type": "outcome",
       "category": "Alimentação",
       "price": "300",
-      "createdAt": "2023-07-01T19:50:19.505Z"
+      "createdAt": "2023-07-02T19:50:19.505Z"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "type": "outcome",
       "category": "Moradia",
       "price": "847",
-      "createdAt": "2023-07-01T19:50:19.505Z"
+      "createdAt": "2023-07-03T19:50:19.505Z"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "type": "outcome",
       "category": "Graduação",
       "price": "740",
-      "createdAt": "2023-07-01T19:50:19.505Z"
+      "createdAt": "2023-07-04T19:50:19.505Z"
     }
   ]
 }
