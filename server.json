@@ -5,15 +5,31 @@
       "description": "Desenvolvedor Frontend",
       "type": "income",
       "category": "Venda",
-      "price": "12000",
+      "price": "4000",
       "createdAt": "2023-07-01T19:12:19.505Z"
     },
     {
       "id": 2,
-      "description": "Hanburger",
-      "type": "oucome",
+      "description": "Compra Mensal de Alimento",
+      "type": "outcome",
       "category": "Alimentação",
-      "price": "40",
+      "price": "300",
+      "createdAt": "2023-07-01T19:50:19.505Z"
+    },
+    {
+      "id": 3,
+      "description": "aluguel da Casa",
+      "type": "outcome",
+      "category": "Moradia",
+      "price": "847",
+      "createdAt": "2023-07-01T19:50:19.505Z"
+    },
+    {
+      "id": 4,
+      "description": "Mensalidade da Faculdade",
+      "type": "outcome",
+      "category": "Graduação",
+      "price": "740",
       "createdAt": "2023-07-01T19:50:19.505Z"
     }
   ]
