@@ -5,32 +5,35 @@
       "description": "Desenvolvedor Frontend",
       "type": "income",
       "category": "Venda",
-      "price": "4000",
-      "createdAt": "2023-07-01T19:12:19.505Z"
+      "price": "4000"
     },
     {
       "id": 2,
       "description": "Compra Mensal de Alimento",
       "type": "outcome",
       "category": "Alimentação",
-      "price": "300",
-      "createdAt": "2023-07-02T19:50:19.505Z"
+      "price": "300"
     },
     {
       "id": 3,
       "description": "aluguel da Casa",
       "type": "outcome",
       "category": "Moradia",
-      "price": "847",
-      "createdAt": "2023-07-03T19:50:19.505Z"
+      "price": "847"
     },
     {
       "id": 4,
       "description": "Mensalidade da Faculdade",
       "type": "outcome",
       "category": "Graduação",
-      "price": "740",
-      "createdAt": "2023-07-04T19:50:19.505Z"
+      "price": "740"
+    },
+    {
+      "description": "Iogurte de Banana",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "id": 5
     }
   ]
 }
