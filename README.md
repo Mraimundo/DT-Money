@@ -2,9 +2,9 @@
 
 Esse projeto foi desenvolvido para trenar as minhas habilidades técnicas. Trata-se de um projeto frontend, o projeto consiste na parte frontend(React) em uma aplicação de Controle finaceira com a listagem de:
 - Entradas
-- Saidas e
-- Todal.
-Contém também o filtro por nome de cada despesa, Cadastras novas despesas e listar todas as despesas.
+- Saidas e o
+- Todal das transações.
+Contém também o filtro por nome de cada transação, Cadastras novas transações e listar todas as transações.
   
 
 ## 🎨 Layout
